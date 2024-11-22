@@ -1,0 +1,10 @@
+# Folder
+/src/scores
+
+# node modules
+/node_modules
+
+./dist
+
+.eslintrc.json
+eslint.config.mjs
